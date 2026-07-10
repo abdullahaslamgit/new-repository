@@ -42,3 +42,31 @@ Software-Engineering-Interview
 - Time Complexity Practice
 - More LeetCode Problems
 - JavaScript Practice
+
+## Day 2
+
+### Topics Covered
+- JavaScript Scope
+- Hoisting
+- Primitive vs Reference Types
+- Equality (`==` vs `===`)
+- Type Coercion
+- Arrays
+- Objects
+- Immutability
+- Big-O Notation
+- String Methods
+- Two Sum
+- Contains Duplicate
+- Valid Anagram
+
+### Reflection
+
+**What I learned:**
+I learned JavaScript fundamentals, Big-O notation, array and string methods, and solved beginner DSA problems.
+
+**What was difficult:**
+Understanding Big-O and learning to think of optimal solutions instead of just making the code work.
+
+**What I will study tomorrow:**
+Functions, execution context, closures, callbacks, higher-order functions, and more DSA problems.
