@@ -232,7 +232,3 @@ Current DSA Progress: **5 / 40 Problems Completed**
 ### DSA
 - Problem #6 — Product of Array Except Self
 - Problem #7 — Group Anagrams
-
----
-
-> "Consistency beats intensity. Every day of this bootcamp is one step closer to becoming an interview-ready Software Engineer."
