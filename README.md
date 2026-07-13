@@ -89,3 +89,150 @@ Understanding how Hash Maps and Hash Sets work to achieve O(n) solutions.
 
 ### What will I study tomorrow
 Strings, Stack, and Valid Parentheses.
+
+
+
+# 🚀 Day 4 – JavaScript Objects, ES6, DOM & DSA
+
+## 📅 Bootcamp Day
+**Day 4** of my 8-Week Software Engineering Interview Preparation Bootcamp.
+
+---
+
+# 📚 Topics Covered
+
+## JavaScript Objects
+- Creating Objects
+- Accessing Properties
+- Dot Notation
+- Bracket Notation
+- Nested Objects
+- Object Methods
+- `this` Keyword
+- `Object.keys()`
+- `Object.values()`
+- `Object.entries()`
+- Object Destructuring
+- Spread Operator
+
+---
+
+## ES6 Features
+- `let`, `const`, and `var`
+- Template Literals
+- Default Parameters
+- Rest Operator (`...`)
+- Spread Operator (`...`)
+- Destructuring
+- Optional Chaining (`?.`)
+- Nullish Coalescing (`??`)
+
+---
+
+## DOM Manipulation
+- Selecting Elements
+- Updating Content with `textContent`
+- Styling Elements
+- Event Handling with `addEventListener()`
+- Toggle Functionality
+- Dynamic DOM Updates
+
+---
+
+# 💻 Mini Project
+
+## Student Profile Card
+
+### Features
+- Display student information using JavaScript objects.
+- Show/Hide profile details with a toggle button.
+- Interactive DOM manipulation.
+- Modern responsive UI.
+- Clean and organized code structure.
+
+### Technologies
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+---
+
+# 🧠 DSA Completed
+
+## Problem #4
+**Best Time to Buy and Sell Stock (LeetCode 121)**
+
+**Concepts Learned**
+- Arrays
+- Greedy Approach
+- Tracking Minimum Price
+- Maximum Profit
+- Time Complexity: O(n)
+
+---
+
+## Problem #5
+**Valid Palindrome (LeetCode 125)**
+
+**Concepts Learned**
+- Strings
+- Two Pointers
+- String Cleaning
+- Character Comparison
+- Time Complexity: O(n)
+
+---
+
+# 🎯 What I Learned
+
+- Working confidently with nested JavaScript objects.
+- Modern ES6 syntax and best practices.
+- Manipulating the DOM to create interactive web pages.
+- Handling click events using `addEventListener()`.
+- Solving array and string interview problems efficiently.
+
+---
+
+# ⚡ Challenges
+
+- Understanding nested object traversal.
+- Building toggle functionality with DOM events.
+- Applying DSA patterns to real interview problems.
+
+---
+
+# 📈 Progress
+
+## Bootcamp
+- ✅ Day 1 Completed
+- ✅ Day 2 Completed
+- ✅ Day 3 Completed
+- ✅ Day 4 Completed
+
+## DSA
+- ✅ #1 Two Sum
+- ✅ #2 Contains Duplicate
+- ✅ #3 Valid Anagram
+- ✅ #4 Best Time to Buy and Sell Stock
+- ✅ #5 Valid Palindrome
+
+Current DSA Progress: **5 / 40 Problems Completed**
+
+---
+
+# 📌 Next Goal (Day 5)
+
+### JavaScript
+- Advanced DOM Manipulation
+- Creating & Removing Elements
+- Event Bubbling
+- Event Delegation
+- Build Mini Project #2
+
+### DSA
+- Problem #6 — Product of Array Except Self
+- Problem #7 — Group Anagrams
+
+---
+
+> "Consistency beats intensity. Every day of this bootcamp is one step closer to becoming an interview-ready Software Engineer."
