@@ -2,7 +2,7 @@
  * @param {number[]} nums
  * @return {boolean}
  */
-var containsDuplicate = function(nums: any) {
+var containsDuplicate = function(nums) {
     let seen = new Set();
 
     for (let num of nums) {

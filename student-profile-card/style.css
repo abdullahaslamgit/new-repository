@@ -1,0 +1,76 @@
+/* Reset default spacing */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Center the card on the page */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+}
+
+/* Profile Card */
+.card {
+    background-color: white;
+    width: 380px;
+
+    padding: 25px;
+
+    border-radius: 12px;
+
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+
+    text-align: center;
+}
+
+/* Main Heading */
+h1 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+/* Student Information */
+h2,
+p {
+    margin: 12px 0;
+    color: #555;
+}
+
+/* Button */
+button {
+    margin-top: 20px;
+
+    padding: 10px 20px;
+
+    border: none;
+
+    border-radius: 8px;
+
+    background-color: royalblue;
+
+    color: white;
+
+    cursor: pointer;
+
+    font-size: 16px;
+
+    transition: 0.3s;
+}
+
+/* Button Hover */
+button:hover {
+    background-color: dodgerblue;
+}
+
+/* Hidden Details */
+.hidden {
+    display: none;
+}

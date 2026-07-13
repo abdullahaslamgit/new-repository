@@ -70,3 +70,22 @@ Understanding Big-O and learning to think of optimal solutions instead of just m
 
 **What I will study tomorrow:**
 Functions, execution context, closures, callbacks, higher-order functions, and more DSA problems.
+
+
+
+## Day 3 Reflection
+
+### What I learned
+- JavaScript Arrays
+- Hash Set
+- Hash Map
+- Time Complexity (O(n))
+- Solved Contains Duplicate
+- Solved Valid Anagram
+- Solved Two Sum
+
+### What was difficult
+Understanding how Hash Maps and Hash Sets work to achieve O(n) solutions.
+
+### What will I study tomorrow
+Strings, Stack, and Valid Parentheses.
