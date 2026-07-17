@@ -232,3 +232,259 @@ Current DSA Progress: **5 / 40 Problems Completed**
 ### DSA
 - Problem #6 — Product of Array Except Self
 - Problem #7 — Group Anagrams
+# Day 05 - TypeScript & DSA
+
+## 📅 Date
+16 July 2026
+
+---
+
+## 📚 Topics Covered
+
+### TypeScript
+- Type Aliases
+- Interfaces
+- Type vs Interface
+- Union Types
+- Type Narrowing
+- Generics
+- Utility Types
+- Strict Mode
+- tsconfig.json
+
+### DSA Problems
+- Best Time to Buy and Sell Stock
+- Product of Array Except Self
+- Group Anagrams
+
+---
+
+## 💡 What I Learned Today
+
+Today I learned advanced TypeScript concepts such as Generics, Utility Types, Type Narrowing, and the purpose of the tsconfig.json file. I also practiced solving array and hash map based problems using optimized approaches with JavaScript.
+
+---
+
+## ⚡ What Was Difficult?
+
+The most challenging topics were understanding Generics and solving Product of Array Except Self without using division. Learning how left and right products work together required careful dry runs.
+
+---
+
+## 🎯 What Will I Study Tomorrow?
+
+- React Fundamentals
+- Components
+- JSX
+- Props
+- State
+- React Interview Questions
+- New DSA Problems
+
+---
+
+## 🚀 Progress
+
+- ✅ Day 05 Completed
+- ✅ TypeScript Completed
+- ✅ 3 DSA Problems Solved
+
+
+
+
+# Day 6 - Week 1 Assessment
+
+## Objective
+
+The goal of Day 6 was to test my understanding of everything I learned during Week 1 without using external help. I completed JavaScript debugging, TypeScript practice, and DSA problems as part of the assessment.
+
+---
+
+## JavaScript Debugging
+
+### Topics Covered
+
+* Scope
+* Closures
+* Event Loop
+* setTimeout
+* var vs let
+
+### Tasks Completed
+
+* Explained why the given code printed `6 6 6 6 6`.
+* Fixed the problem using `let`.
+* Fixed the problem using an IIFE.
+* Fixed the problem without using `let` or an IIFE.
+* Answered interview questions about:
+
+  * `var` vs `let`
+  * Closures
+  * Synchronous vs Asynchronous JavaScript
+  * `setTimeout(fn, 0)`
+
+### What I Learned
+
+* `var` is function-scoped, while `let` is block-scoped.
+* Closures allow a function to access variables from its outer scope even after the outer function has finished executing.
+* `setTimeout` is asynchronous and its callback is executed only after the call stack becomes empty.
+* Each loop iteration needs its own copy of the variable to produce the expected output.
+
+---
+
+## TypeScript Practice
+
+### Topics Covered
+
+* Interfaces
+* Function parameter types
+* Return types
+* Arrays with interfaces
+* Generics
+* Union Types
+
+### Tasks Completed
+
+* Created a `User` interface.
+* Added parameter and return types to functions.
+* Typed an array of users.
+* Created a generic `identity` function.
+* Used a union type for application status.
+
+### What I Learned
+
+* Interfaces make object structures clear and reusable.
+* Generics allow writing reusable and type-safe functions.
+* TypeScript helps catch errors during development.
+
+---
+
+## DSA Problems
+
+### 1. Valid Parentheses
+
+#### Approach
+
+* Used a stack.
+* Pushed opening brackets onto the stack.
+* Popped and checked matching closing brackets.
+* Returned `true` only if the stack was empty at the end.
+
+#### Complexity
+
+* Time Complexity: **O(n)**
+* Space Complexity: **O(n)**
+
+---
+
+### 2. Merge Two Sorted Lists
+
+#### Approach
+
+* Used two pointers to compare nodes.
+* Added the smaller node to the merged list.
+* Attached the remaining nodes after one list ended.
+
+#### Complexity
+
+* Time Complexity: **O(n + m)**
+* Space Complexity: **O(1)**
+
+---
+
+## Interview Practice
+
+Practiced explaining:
+
+* Tell me about yourself
+* var vs let vs const
+* Closures
+* Event Loop
+* Two Sum
+* Contains Duplicate
+* Valid Anagram
+* Product of Array Except Self
+* Group Anagrams
+* Valid Parentheses
+
+---
+
+## Skills Improved
+
+* JavaScript debugging
+* TypeScript fundamentals
+* Stack data structure
+* Linked List problems
+* Problem-solving
+* Interview communication
+
+---
+
+## Challenges Faced
+
+* Understanding closure behavior with asynchronous code.
+* Solving linked list problems without relying on hints.
+* Explaining concepts clearly in interview style.
+
+---
+
+## What I Learned Today
+
+* How closures and the Event Loop work together.
+* How TypeScript improves code safety.
+* How stacks solve bracket-matching problems.
+* How to merge linked lists efficiently.
+* The importance of explaining solutions, not just writing code.
+
+---
+
+## Week 1 Summary
+
+### JavaScript
+
+* Variables
+* Data Types
+* Scope
+* Hoisting
+* Closures
+* Objects
+* Arrays
+* Functions
+* Async Basics
+* Event Loop
+* Debugging
+
+### TypeScript
+
+* Interfaces
+* Types
+* Generics
+* Union Types
+
+### DSA Completed
+
+1. Two Sum
+2. Contains Duplicate
+3. Valid Anagram
+4. Product of Array Except Self
+5. Group Anagrams
+6. Valid Parentheses
+7. Merge Two Sorted Lists
+
+---
+
+## Progress
+
+* Week 1: Completed
+* Day 6 Assessment: Completed
+* Overall Bootcamp Progress: 12.5%
+
+---
+
+## Plan for Next Week
+
+* Start Week 2 topics.
+* Learn advanced JavaScript concepts.
+* Continue TypeScript practice.
+* Solve more Linked List and Stack problems.
+* Improve coding speed and interview communication.
