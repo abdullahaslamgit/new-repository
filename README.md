@@ -488,3 +488,131 @@ Practiced explaining:
 * Continue TypeScript practice.
 * Solve more Linked List and Stack problems.
 * Improve coding speed and interview communication.
+# Day 7 - JavaScript Advanced: Asynchronous JavaScript
+
+## Date
+
+18 July 2026
+
+## Topics Covered
+
+### Asynchronous JavaScript
+
+* What is Asynchronous JavaScript
+* Synchronous vs Asynchronous Execution
+* Why asynchronous programming is needed
+
+### Callbacks
+
+* Understanding callback functions
+* Passing functions as arguments
+* Callback examples
+* `setTimeout()` with callbacks
+
+### Callback Hell
+
+* What Callback Hell is
+* Problems caused by deeply nested callbacks
+* Why it makes code difficult to read and maintain
+
+### Promises
+
+* Introduction to Promises
+* Promise states:
+
+  * Pending
+  * Fulfilled
+  * Rejected
+* Creating and consuming Promises
+* Using `.then()` and `.catch()`
+
+### Promise Chaining
+
+* Chaining multiple `.then()` methods
+* Writing cleaner asynchronous code
+* Better error handling
+
+### Async/Await
+
+* Using the `async` keyword
+* Using the `await` keyword
+* Writing asynchronous code that looks synchronous
+
+### Error Handling
+
+* Using `try...catch` with async functions
+* Handling rejected Promises
+
+### Event Loop
+
+* Understanding the JavaScript Event Loop
+* Call Stack
+* Web APIs
+* Event Loop execution flow
+
+### Microtask Queue vs Callback Queue
+
+* Microtask Queue
+* Callback (Macrotask) Queue
+* Execution priority
+* Promise vs `setTimeout()` execution order
+
+### Promise.all()
+
+* Running multiple Promises in parallel
+* Behavior when one Promise fails
+
+### Promise.allSettled()
+
+* Waiting for all Promises to complete
+* Handling both fulfilled and rejected Promises
+
+### Fetch API Basics
+
+* Making HTTP GET requests
+* Using Fetch with `.then()`
+* Using Fetch with `async/await`
+
+## Interview Questions Practiced
+
+* What is Asynchronous JavaScript?
+* What is a Callback?
+* What is Callback Hell?
+* What are the states of a Promise?
+* Difference between Promise and Async/Await
+* What is the Event Loop?
+* Difference between Microtask Queue and Callback Queue
+* Difference between Promise.all() and Promise.allSettled()
+* What is the Fetch API?
+
+## DSA
+
+### Problem
+
+* Top K Frequent Elements (Problem Introduction)
+
+## Key Learnings
+
+* Learned how JavaScript handles asynchronous operations.
+* Understood the use of Callbacks, Promises, and Async/Await.
+* Learned how the Event Loop manages asynchronous tasks.
+* Understood the execution order of the Call Stack, Microtask Queue, and Callback Queue.
+* Learned how to make API requests using the Fetch API.
+* Started solving the "Top K Frequent Elements" DSA problem.
+
+## What I Learned Today
+
+Today I learned advanced asynchronous concepts in JavaScript, including callbacks, promises, async/await, the Event Loop, Microtask Queue, Callback Queue, Promise.all(), Promise.allSettled(), and the Fetch API. I also began working on the DSA problem "Top K Frequent Elements."
+
+## Challenges
+
+* Understanding the Event Loop and execution order of asynchronous tasks.
+* Differentiating between Microtask Queue and Callback Queue.
+* Knowing when to use Promise.all() versus Promise.allSettled().
+
+## Next Day Goals
+
+* Complete the DSA solution for Top K Frequent Elements.
+* Solve the remaining DSA problems for Week 2.
+* Practice more asynchronous JavaScript coding exercises.
+* Strengthen problem-solving speed and interview preparation.
