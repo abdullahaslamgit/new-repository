@@ -616,3 +616,60 @@ Today I learned advanced asynchronous concepts in JavaScript, including callback
 * Solve the remaining DSA problems for Week 2.
 * Practice more asynchronous JavaScript coding exercises.
 * Strengthen problem-solving speed and interview preparation.
+
+
+
+
+
+
+# Day 9 - Node.js REST API (MVC Architecture)
+
+## Topics Covered
+
+- Express.js
+- REST APIs
+- MVC Architecture
+- Controllers
+- Services
+- Repository Pattern
+- CRUD Operations
+- Thunder Client Testing
+- Error Handling
+- Environment Variables (.env)
+- Request Validation
+
+## API Endpoints
+
+GET /users
+
+GET /users/:id
+
+POST /users
+
+PUT /users/:id
+
+DELETE /users/:id
+
+## Folder Structure
+
+controllers/
+services/
+repositories/
+routes/
+middleware/
+app.js
+server.js
+
+## Learning Outcome
+
+- Understood REST API development.
+- Learned clean project architecture.
+- Implemented CRUD APIs.
+- Tested APIs using Thunder Client.
+- Learned request validation and error handling.
+
+## Next Step
+
+MongoDB Integration
+Authentication
+JWT
